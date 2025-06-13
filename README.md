@@ -45,4 +45,4 @@ Durante a construção deste projeto, estudei e implementei diversas técnicas, 
 Clone este repositório e abra o arquivo `index.html` em um navegador compatível.
 
 ## 🎮 Demonstração  
-Você pode conferir o jogo funcionando diretamente [aqui](https://criando-jogo-carta-yu-gi-oh.vercel.app/).
+Você pode conferir o jogo funcionando diretamente [aqui](https://construindo-simulador-piano.vercel.app/).
